@@ -1,0 +1,17 @@
+# Procesamiento de Datos
+polars
+pyarrow
+pandas
+tabulate
+
+# Crawling y Web
+requests
+crawl4ai
+beautifulsoup4
+
+# Procesamiento PDF
+docling
+docling-core
+
+# Utilidades
+pathlib
